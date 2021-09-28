@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Sass, CSS**
 
-- 📫 How to reach me **sankalpkhanna16@gmail.com**
+- 📫 Reach me through [email](mailto:sankalpkhanna16@gmail.com)
 
-- 📄 Know about my experiences [https://sankomil.github.io/resume-website/](https://sankomil.github.io/resume-website/)
+- 📄 Read about my experiences [here](https://sankomil.github.io/resume-website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
