@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sankalp</h1>
+<h1 align="center">Hi, I'm Sankalp</h1>
 <h3 align="center">An electronic engineer who somehow found his way into software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankomil&label=Profile%20views&color=0e75b6&style=flat" alt="sankomil" /> </p>
