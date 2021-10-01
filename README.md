@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Full+Time+Nerd">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankomil&label=Profile%20views&color=0e75b6&style=flat" alt="sankomil" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankomil" alt="sankomil" /></a> </p>
 
