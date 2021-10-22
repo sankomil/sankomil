@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankomil" alt="sankomil" /></a> </p>
 
-- I am currently working at [Kin Technology](https://www.kinhealthcare.co/)
+- I am currently working at [Société Générale](https://www.societegenerale.asia/en/)
 
-- 🌱 I’m currently learning **Sass, CSS**
+- 🌱 I’m currently learning **C#, >NET**
 
 - 📫 Reach me through [email](mailto:sankalpkhanna16@gmail.com)
 
