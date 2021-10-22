@@ -11,7 +11,7 @@
 
 - I am currently working at [Société Générale](https://www.societegenerale.asia/en/)
 
-- 🌱 I’m currently learning **C#, >NET**
+- 🌱 I’m currently learning **C#, .NET**
 
 - 📫 Reach me through [email](mailto:sankalpkhanna16@gmail.com)
 
