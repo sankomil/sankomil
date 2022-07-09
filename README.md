@@ -31,11 +31,5 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-envoy-vc.vercel.app/api?username=sankomil&show_icons=true&theme=dark" alt="sankomil" /></p>
-
-<br>
-
-
-<p>&nbsp;<img align="center" src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=sankomil&layout=compact" alt="sankomil" /></p>
 
 
