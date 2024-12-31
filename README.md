@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankomil" alt="sankomil" /></a> </p>
 
-- I am currently working at [Société Générale](https://www.societegenerale.asia/en/)
+- I am currently working at [Li & Fung]([https://www.societegenerale.asia/en/](https://www.lifung.com/))
 
-- 🌱 I’m currently learning **Python, ReactJS, TypeScript, Bootstrap, Kubernetes**
+- 🌱 I’m currently working with **ReactJS, TypeScript, Tableau, Power Suite**
 
 - 📫 Reach me through [email](mailto:sankalpkhanna16@gmail.com)
 
