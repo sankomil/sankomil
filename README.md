@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankomil" alt="sankomil" /></a> </p>
+<p align="center"> <a href="https://trophy.ryglcloud.net/?username=sankomil"><img src="https://trophy.ryglcloud.net/?username=sankomil" alt="sankomil" /></a> </p>
 
 - I am currently working at [Li & Fung]([https://www.societegenerale.asia/en/](https://www.lifung.com/))
 
