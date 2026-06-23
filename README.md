@@ -5,9 +5,9 @@
 
 
 
-<p align="center"> <a href="https://trophy.ryglcloud.net/?username=sankomil"><img src="https://trophy.ryglcloud.net/?username=sankomil" alt="sankomil" /></a> </p>
 
-- I am currently working at [Li & Fung]([https://www.societegenerale.asia/en/](https://www.lifung.com/))
+
+
 
 - 🌱 I’m currently working with **ReactJS, TypeScript, Tableau, Power Suite**
 
