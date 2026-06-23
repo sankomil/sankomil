@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Sankalp</h1>
 <h3 align="center">An electronic engineer who somehow found his way into software.</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Full+Time+Nerd">
-</p>
+![sankomil's GitHub Banner](https://raw.githubusercontent.com/sankomil/sankomil/main/banner.png)
 
 
 
